@@ -1,1 +1,1 @@
-# ahimsalon
+Copyright Ahimsalon
